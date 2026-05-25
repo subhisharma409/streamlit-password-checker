@@ -112,12 +112,7 @@ streamlit
 ---
 
 ## 🚀 Live Demo
-
-👉 Add Streamlit deployment link here
-
-Example:
-
-https://your-password-checker.streamlit.app
+[Click to check password](https://app-password-checker-d9ysxsb47trkbn7cpbaht6.streamlit.app/)
 
 ---
 
